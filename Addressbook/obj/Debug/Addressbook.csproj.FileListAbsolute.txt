@@ -1,0 +1,10 @@
+C:\Users\engin\source\repos\Addressbook\Addressbook\bin\Debug\Addressbook.exe.config
+C:\Users\engin\source\repos\Addressbook\Addressbook\bin\Debug\Addressbook.exe
+C:\Users\engin\source\repos\Addressbook\Addressbook\bin\Debug\Addressbook.pdb
+C:\Users\engin\source\repos\Addressbook\Addressbook\obj\Debug\Addressbook.csprojAssemblyReference.cache
+C:\Users\engin\source\repos\Addressbook\Addressbook\obj\Debug\Addressbook.Form1.resources
+C:\Users\engin\source\repos\Addressbook\Addressbook\obj\Debug\Addressbook.Properties.Resources.resources
+C:\Users\engin\source\repos\Addressbook\Addressbook\obj\Debug\Addressbook.csproj.GenerateResource.cache
+C:\Users\engin\source\repos\Addressbook\Addressbook\obj\Debug\Addressbook.csproj.CoreCompileInputs.cache
+C:\Users\engin\source\repos\Addressbook\Addressbook\obj\Debug\Addressbook.exe
+C:\Users\engin\source\repos\Addressbook\Addressbook\obj\Debug\Addressbook.pdb
